@@ -22,6 +22,8 @@
         <module>springboot001-helloworld</module>
         <module>springboot002-configure</module>
         <module>springboot003-restful</module>
+        <module>springboot004-thymeleaf</module>
+        <module>springboot005-freemarker</module>
     </modules>
 <dependencyManagement>
     <dependencies>
