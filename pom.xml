@@ -24,6 +24,9 @@
         <module>springboot003-restful</module>
         <module>springboot004-thymeleaf</module>
         <module>springboot005-freemarker</module>
+        <module>springboot006-swagger</module>
+        <module>springboot007-exception</module>
+        <module>springboot008-mybatis</module>
     </modules>
 <dependencyManagement>
     <dependencies>
