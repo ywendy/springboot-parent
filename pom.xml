@@ -20,6 +20,7 @@
 
     <modules>
         <module>springboot001-helloworld</module>
+        <module>springboot002-configure</module>
     </modules>
 
 
