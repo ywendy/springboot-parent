@@ -27,6 +27,7 @@
         <module>springboot006-swagger</module>
         <module>springboot007-exception</module>
         <module>springboot008-mybatis</module>
+        <module>springboot009-mybatis-page-durid-log</module>
     </modules>
 <dependencyManagement>
     <dependencies>
