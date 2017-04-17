@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.wendy.springboot.multi.datasource.qj.dao.OrderMapper">
+
+    <select id="getOrderById" resultType="com.wendy.springboot.multi.datasource.qj.domain.Order" parameterType="integer" >
+        SELECT id,product_name as productName FROM `order` WHERE id=#{orderId}
+    </select>
+
+</mapper>

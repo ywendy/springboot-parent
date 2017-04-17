@@ -1,6 +1,6 @@
-#spring boot mybatis
+# spring boot mybatis
 
-##修改banner
+## 修改banner
 - 可以设置false 禁用
 - 在resources目录下新建banner.txt,去http://patorjk.com/software/taag/ 
 生成一个banner复制到banner.txt里
