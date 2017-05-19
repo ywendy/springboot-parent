@@ -29,6 +29,7 @@
         <module>springboot008-mybatis</module>
         <module>springboot009-mybatis-page-durid-log</module>
         <module>springboot010-multidatasource</module>
+        <module>springboot011-starter</module>
     </modules>
 <dependencyManagement>
     <dependencies>

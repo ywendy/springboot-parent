@@ -1,0 +1,7 @@
+spring:
+  wendy:
+    service:
+      enabled: true
+      hello: zhangshan
+debug: false
+
